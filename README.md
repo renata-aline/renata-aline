@@ -17,3 +17,4 @@
   <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
 </div><br/>
 Desenvolvedora front-end. Apaixonada por tecnologia.
+
