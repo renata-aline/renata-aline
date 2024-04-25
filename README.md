@@ -3,7 +3,7 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/renata-aline-oliveira)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renataaolyveira/)
-[![Portifólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](renata-aline.github.io/portfolio/)
+[![Portifólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://renata-aline.github.io/portfolio/)
 
 ![renata GitHub stats](https://github-readme-stats.vercel.app/api?username=renata-aline&show_icons=true&theme=dracula)
 
